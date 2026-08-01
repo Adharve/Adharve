@@ -1,5 +1,5 @@
 # 👋 Hey, I’m Adharve  
-3rd-Year B.Tech CSE @ SRM University, KTR  
+Final-Year B.Tech CSE @ SRM University, KTR  
 Focused on systems, cloud-native development, and high-performance software.
 
 ---
